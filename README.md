@@ -13,6 +13,7 @@ CSS
 JavaScript
 
 ▶️ Como usar
+
 Abra o arquivo index.html no navegador
 
 Insira seu peso e altura
